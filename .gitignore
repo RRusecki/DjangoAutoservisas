@@ -1,0 +1,28 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+
+# Database
+db.sqlite3
+
+# Media and static files (if they are generated or uploaded by users)
+media/
+static/
+
+# Environment variables
+.env
+
+# Local settings (if you have separate local settings for development)
+settings_local.py
+
+# PyCharm specific files
+.idea/
+*.iml
+
+# Editor specific files (general)
+.vscode/
+*.swp
