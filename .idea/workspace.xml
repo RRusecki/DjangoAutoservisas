@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b12588-ecc3-40a6-81fe-4adf9a7555cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Autoservisas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/autoservisas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/autoservice/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/autoservisas/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/autoservice/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/autoservisas/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/autoservice/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/autoservisas/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/autoservice/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/autoservisas/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/autoservice/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/autoservisas/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/autoservice/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/autoservisas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/autoservice/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
