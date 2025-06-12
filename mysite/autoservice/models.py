@@ -42,7 +42,7 @@ class Uzsakymas(models.Model):
 class Uzsakymo_eilute(models.Model):
     paslauga = models.ForeignKey("Paslauga", on_delete=models.SET_NULL, null=True)
     uzsakymas = models.ForeignKey("Uzsakymas", on_delete=models.SET_NULL, null=True)
-    kiekis = models.IntegerField(max_digits=6, decimal_places=1)
+    kiekis = models.IntegerField()
     kaina = models.DecimalField(max_digits=6, decimal_places=2)
 
     def __str__(self):
